@@ -1,6 +1,6 @@
 ## :wave: Hello my name is <strong>Pedro Figueira!</strong>
 
-> Computer Science Student at [UFERSA](https://ufersa.edu.br), currently at my third semester.
+> Computer Science Student at [UFERSA](https://ufersa.edu.br), currently in my third semester.
 
 - Currently working in an OOP [project](https://github.com/PepeuFBV/Trab-Banco-de-Dados-Editorial) linked to a database in PostegreeSQL and Java.
 - Learning React.js and Tailwind for the development of a Website for an University project.
