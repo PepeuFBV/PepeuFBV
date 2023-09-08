@@ -4,7 +4,6 @@
 
 - Currently working in an OOP [project](https://github.com/PepeuFBV/Trab-Banco-de-Dados-Editorial) linked to a database in PostegreeSQL and Java.
 - Learning React.js and Tailwind for the development of a Website for an University project.
-- Learning a bit of Pandas integrated with a MySQL database.
 
 ---
 
