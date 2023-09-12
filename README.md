@@ -2,7 +2,7 @@
 
 > Computer Science Student at [UFERSA](https://ufersa.edu.br), currently in my third semester.
 
-- Currently working in an OOP [project](https://github.com/PepeuFBV/Trab-Banco-de-Dados-Editorial) linked to a database in PostegreeSQL and Java.
+- Currently working in a Java [project](https://github.com/PepeuFBV/Trab-Banco-de-Dados-Editorial) linked to a database in PostegreeSQL.
 - Learning React.js and Tailwind for the development of a Website for an University project.
 
 ---
