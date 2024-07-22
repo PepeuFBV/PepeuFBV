@@ -1,7 +1,6 @@
 ## :wave: Hello my name is <strong>Pedro Figueira!</strong>
 
-> Computer Science Student at [UFERSA](https://ufersa.edu.br), currently in my fourth semester.
-- Learning React.js and Tailwind for the development of a Website for an University project.
+> Computer Science Student at [UFERSA](https://ufersa.edu.br), currently in my fifth semester.
 - My <a href="https://leetcode.com/pedro_fbv/">leetcode</a>
 
 ---
